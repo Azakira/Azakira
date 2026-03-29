@@ -25,7 +25,7 @@ I’m currently working on open-source security automation projects under **Cybe
 
 ## 🗂️ Previous Work
 
-Some of my earlier work (including Ledger applications from my time at @blooo-io) is available here:  
+Some of my earlier work (including Ledger applications from my time at [blooo](https://github.com/blooo-io)) is available here:  
 👉 https://github.com/Z4karia
 
 ## 📫 Contact
