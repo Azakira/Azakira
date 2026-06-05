@@ -47,12 +47,12 @@ I'm currently building open-source security and AI-assisted tooling at **[CyberS
 
 ### 🔹 [aimd](https://github.com/CyberSecAuto-Labs/aimd) (🚧 WIP)
 
-> Manage AI context files (CLAUDE.md, AGENTS.md, .cursor/rules) as private overlays that stay out of your project repository.
->
-> - Keep valuable context invisible to teammates and shared repositories
+> Manage AI context files (CLAUDE.md, AGENTS.md, .cursor/rules) privately, kept out of your project repository, synced across your machines.
+> 
+> - Keep personal AI context out of shared repositories, where it doesn't belong
 > - Sync AI workflows across machines without exposing personal or client-specific notes
 > - Own your data using a standard Git remote you control
->
+> 
 > For developers who depend on AI tooling but cannot commit the context that makes it effective.
 
 
@@ -60,7 +60,7 @@ I'm currently building open-source security and AI-assisted tooling at **[CyberS
 
 > Self-hosted vulnerability triage engine built on DefectDojo.
 >
-> Deterministic logic scores and prioritizes findings. A local LLM explains the decisions — it never makes them.
+> Deterministic logic scores and prioritizes findings. A local LLM explains the decisions, it never makes them.
 >
 > - Know what to fix first, with an auditable reason why
 > - AI-generated context grounded in real data, not hallucinations
